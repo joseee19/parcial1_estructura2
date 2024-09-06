@@ -1,3 +1,5 @@
+// Jose Castañdea
+
 class Producto {
     codigo: string;
     nombre: string;
